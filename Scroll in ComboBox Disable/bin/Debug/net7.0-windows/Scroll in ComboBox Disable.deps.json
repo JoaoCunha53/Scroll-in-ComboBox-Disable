@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Scroll in ComboBox Disable/1.0.0": {
+        "runtime": {
+          "Scroll in ComboBox Disable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scroll in ComboBox Disable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

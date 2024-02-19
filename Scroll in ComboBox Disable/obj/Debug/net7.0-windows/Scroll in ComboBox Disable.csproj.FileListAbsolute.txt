@@ -1,0 +1,16 @@
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\bin\Debug\net7.0-windows\Scroll in ComboBox Disable.exe
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\bin\Debug\net7.0-windows\Scroll in ComboBox Disable.deps.json
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\bin\Debug\net7.0-windows\Scroll in ComboBox Disable.runtimeconfig.json
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\bin\Debug\net7.0-windows\Scroll in ComboBox Disable.dll
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\bin\Debug\net7.0-windows\Scroll in ComboBox Disable.pdb
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll_in_ComboBox_Disable.Form1.resources
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.csproj.GenerateResource.cache
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.AssemblyInfoInputs.cache
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.AssemblyInfo.cs
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.csproj.CoreCompileInputs.cache
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.dll
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\refint\Scroll in ComboBox Disable.dll
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.pdb
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\Scroll in ComboBox Disable.genruntimeconfig.cache
+C:\Users\João Cunha\Documents\GitHub\Scroll in ComboBox Disable\Scroll in ComboBox Disable\obj\Debug\net7.0-windows\ref\Scroll in ComboBox Disable.dll
